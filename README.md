@@ -93,15 +93,6 @@ Our vision is to create a global, decentralized infrastructure for credential ve
 Contract ID: ST3D4N3DR8VC2BE85M8HMS2HS0D5BTPXST6DN7Z5Y.CredentialVerificationHub
 ![alt text](image.png)
 
-> **Note**: Contract deployment information will be added upon mainnet deployment.
-
-### Testnet Deployment:
-- **Network**: Stacks Testnet
-- **Contract Address**: `ST3D4N3DR8VC2BE85M8HMS2HS0D5BTPXST6DN7Z5Y.CredentialVerificationHub`
-- **Contract Name**: `credential-verification-hub`
-- **Deployer Address**: `ST3D4N3DR8VC2BE85M8HMS2HS0D5BTPXST6DN7Z5Y`
-- **Block Height**: `9:34:21 AM 8/26/2025`
-
 ### Contract Functions:
 
 #### Primary Functions:
@@ -163,5 +154,5 @@ Contract ID: ST3D4N3DR8VC2BE85M8HMS2HS0D5BTPXST6DN7Z5Y.CredentialVerificationHub
 
 ---
 
-**Built with ❤️ on Stacks Blockchain | Powered by Clarity Smart Contracts**
+
 
