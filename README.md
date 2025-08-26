@@ -90,6 +90,8 @@ Our vision is to create a global, decentralized infrastructure for credential ve
 - **Governance Token**: Community-driven platform governance and decision-making
 
 ## Contract Address Details
+Contract ID: ST3D4N3DR8VC2BE85M8HMS2HS0D5BTPXST6DN7Z5Y.CredentialVerificationHub
+![alt text](image.png)
 
 > **Note**: Contract deployment information will be added upon mainnet deployment.
 
@@ -163,4 +165,3 @@ Our vision is to create a global, decentralized infrastructure for credential ve
 
 **Built with ❤️ on Stacks Blockchain | Powered by Clarity Smart Contracts**
 
-*Revolutionizing credential verification through blockchain technology and zero-knowledge privacy protection.*
